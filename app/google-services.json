@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "583348648008",
+    "firebase_url": "https://eventreport-c50ff.firebaseio.com",
+    "project_id": "eventreport-c50ff",
+    "storage_bucket": "eventreport-c50ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583348648008:android:42e76512306dcb38",
+        "android_client_info": {
+          "package_name": "com.laioffer.eventreporter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "583348648008-sltn8t1nf1v7ie1bj1va4qfhq1mrjeg4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.laioffer.eventreporter",
+            "certificate_hash": "180377dc03c82c9f694be5230fe0aeadba7648b9"
+          }
+        },
+        {
+          "client_id": "583348648008-g9bra9ujn3348lrvphqtltu6c4auqacg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLGk2HEfiQeIKvEg-Xk8GPj6l2U_waBZQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "583348648008-g9bra9ujn3348lrvphqtltu6c4auqacg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
